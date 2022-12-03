@@ -7,7 +7,7 @@ GroundStation is a ground control station for Unmanned Aerial Vehicle's.
 ------
 ## Installation On Linux (Recommended)
 
-Those instructions were tested on Ubuntu 18.04.
+The following instructions were tested on Ubuntu 18.04.
 
 Install the dependencies.
 
@@ -31,14 +31,14 @@ sudo apt install rxvt-unicode
 Install the GroundStation
 
 ```console
-git clone https://github.com/UmutDumandag/Design_and_Implementation_of_a_Low-Cost_Fixed-wing_UAV_for_Aerial_Forest_Mapping.git
+git clone https://github.com/FieldRoboticsLab/FixedWing_UAV_for_Aerial_Mapping.git
 ```
 ---------
 
 ## Launching GroundStation on Linux
 
 ```console
-cd Design_and_Implementation_of_a_Low-Cost_Fixed-wing_UAV_for_Aerial_Forest_Mapping/GroundStation/
+cd FixedWing_UAV_for_Aerial_Mapping/GroundStation/
 python3 main.py
 ```
 ---------
