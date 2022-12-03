@@ -1,0 +1,13 @@
+# Design_and_Implementation_of_a_Low-Cost_Fixed-wing_UAV_for_Aerial_Forest_Mapping
+---
+
+This repository presents the codes used in the article titled as "Design and Implementation of a Low-Cost Fixed-wing UAV for Aerial Forest Mapping".
+This repository consists of three different packages:
+
+* GroundStation
+    * Ground control station for UAV.
+* ardupilot_sim
+    *  ROS simulation package includes plugins necessary for SITL/Gazebo simulations with the APM stack.
+* ardupilot_mavros
+    * Connecting Ardupilot to ROS. !!!
+----

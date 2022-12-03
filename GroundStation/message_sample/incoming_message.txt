@@ -1,0 +1,2 @@
+RPUSH incoming_messages "13:34:43 connected:T armed:F guided:T mode:AUTO.LOITER;lat: 40.996215 lon: 29.060988;x: -0.04 y: -0.02 z: 0.03;0.01;1.00;roll: -0.03128725962713 pitch: 0.0017460770905 yaw: 0.00222586514428;heading: 94.43;wind_vel: 10.00"
+

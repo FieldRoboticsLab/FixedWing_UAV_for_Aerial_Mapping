@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+    <asset>
+        <contributor>
+            <authoring_tool>ctmconv</authoring_tool>
+            <comments></comments>
+        </contributor>
+        <created>2021-05-08T19:14:06</created>
+        <modified>2021-05-08T19:14:06</modified>
+    </asset>
+    <library_geometries>
+        <geometry id="Mesh-1" name="Mesh-1">
+            <mesh>
+                <source id="Mesh-1-positions" name="position">
+                    <float_array id="Mesh-1-positions-array" count="24">-0.068975 -6.75633e-10 0.011935 -0.068975 0.42 0.011935 -0.0681225 -6.7563e-10 0.0168618 -0.0681225 0.42 0.0168618 1.27785e-09 -6.75728e-10 -2.20978e-10 1.27837e-09 0.42 -2.21301e-10 0.0008525 -6.75725e-10 0.00492679 0.0008525 0.42 0.00492679 </float_array>
+                    <technique_common>
+                        <accessor count="8" offset="0" source="#Mesh-1-positions-array" stride="3">
+                            <param name="X" type="float" />
+                            <param name="Y" type="float" />
+                            <param name="Z" type="float" />
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="Mesh-1-vertices">
+                    <input semantic="POSITION" source="#Mesh-1-positions" />
+                </vertices>
+                <triangles count="12">
+                    <input offset="0" semantic="VERTEX" source="#Mesh-1-vertices" />
+                    <p>2 3 0 0 3 1 6 2 4 4 2 0 7 6 5 5 6 4 3 7 1 1 7 5 6 7 2 2 7 3 5 4 1 1 4 0 </p>
+                </triangles>
+            </mesh>
+        </geometry>
+    </library_geometries>
+    <library_visual_scenes>
+        <visual_scene id="Scene-1" name="Scene-1">
+            <node id="Object-1" name="Object-1">
+                <instance_geometry url="#Mesh-1" />
+            </node>
+        </visual_scene>
+    </library_visual_scenes>
+    <scene>
+        <instance_visual_scene url="#Scene-1" />
+    </scene>
+</COLLADA>

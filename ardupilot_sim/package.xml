@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+  <name>ardupilot_sim</name>
+  <version>0.0.0</version>
+  <description>Simulation package for the APM stack</description>
+
+  <maintainer email="parkerclusk@gmail.com | umutdumandag61@gmail.com">Parker Lusk | Modified by Umut Dumandag</maintainer>
+  <license>BSD</license>
+
+  <build_depend>gazebo_ros</build_depend>
+  <run_depend>gazebo_ros</run_depend>
+  <buildtool_depend>catkin</buildtool_depend>
+
+
+  <!-- The export tag contains other, unspecified, tags -->
+  <export>
+    <gazebo_ros gazebo_model_path="${prefix}/models" />
+    <gazebo_ros gazebo_model_path="${prefix}/.." />
+  </export>
+</package>

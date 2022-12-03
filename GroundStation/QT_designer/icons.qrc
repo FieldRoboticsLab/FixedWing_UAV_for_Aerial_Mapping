@@ -1,0 +1,35 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>plane-landing.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>uav.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>unnamed.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>images.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>takeoff-the-plane.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>Screenshot (27).png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>Screenshot (26).png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>unnamed.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>download.jfif</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>box-out-icon.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>unnamed.jpg</file>
+  </qresource>
+</RCC>

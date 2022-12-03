@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>uav.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>gazebo.png</file>
+  </qresource>
+</RCC>
