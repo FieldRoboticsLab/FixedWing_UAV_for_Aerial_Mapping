@@ -1,7 +1,7 @@
 ardupilot_sim
 =============
 
-This ROS simulation package includes plugins necessary for SITL/Gazebo simulations with the APM stack.
+This ROS simulation package includes necessary plugins  for SITL/Gazebo simulations with the APM stack.
 
 Tested with the following setup:
 
