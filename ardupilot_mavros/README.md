@@ -5,7 +5,7 @@ This package allows us to be able to connect to ArduPilot running on the flight 
 -----
 
 ## Dependencies
-* Ros http://wiki.ros.org/melodic/Installation/Ubuntu
+* ROS http://wiki.ros.org/melodic/Installation/Ubuntu
 * Mavros https://docs.px4.io/master/en/ros/mavros_installation.html
 * Ardupilot https://ardupilot.org/dev/docs/building-setup-linux.html#building-setup-linux
 
