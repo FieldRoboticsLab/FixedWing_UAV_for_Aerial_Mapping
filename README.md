@@ -1,4 +1,4 @@
-# Design_and_Implementation_of_a_Low-Cost_Fixed-wing_UAV_for_Aerial_Forest_Mapping
+#  FixedWing_UAV_for_Aerial_Mapping
 ---
 
 This repository presents the codes used in the article titled as "Design and Implementation of a Low-Cost Fixed-wing UAV for Aerial Forest Mapping".
