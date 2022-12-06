@@ -1,7 +1,7 @@
 #  FixedWing_UAV_for_Aerial_Mapping
 ---
 
-This repository presents the codes used in the article titled as "Design and Implementation of a Low-Cost and Open-Source Fixed-Wing UAV for Aerial Mapping".
+This repository presents the codes used in the article titled as "Aerial Mapping with a Low-Cost and Open-Source Fixed-Wing UAV".
 This repository consists of three different packages:
 
 * GroundStation
