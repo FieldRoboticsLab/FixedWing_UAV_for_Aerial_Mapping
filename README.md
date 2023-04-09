@@ -9,5 +9,5 @@ This repository consists of three different packages:
 * ardupilot_sim
     *  ROS simulation package includes plugins necessary for SITL/Gazebo simulations with the APM stack.
 * ardupilot_mavros
-    * Connecting Ardupilot to ROS. !!!
+    * Connecting Ardupilot to ROS.
 ----
