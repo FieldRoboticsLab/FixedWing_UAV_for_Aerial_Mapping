@@ -11,3 +11,18 @@ This repository consists of three different packages:
 * ardupilot_mavros
     * Connecting Ardupilot to ROS.
 ----
+
+## Reference
+
+If you use this repository in your work, please cite the following publication: 
+
+```
+@article{BugraAerial2023,
+  Title= {Aerial Mapping with a Low-Cost and Open-Source Fixed-Wing UAV},
+  Author= {Ahmet Buğra Büyükarslan, Umut Dumandağ and Haluk Bayram},
+  journal={},
+  volume={},
+  pages={1-26},
+  year={2023}
+}
+```
